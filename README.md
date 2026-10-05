@@ -1,2 +1,2 @@
 # VSE
-bomo vidli
+bomo vidli kaj bo
